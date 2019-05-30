@@ -1,0 +1,6 @@
+framework module Reohigh {
+  umbrella header "Reohigh.h"
+
+  export *
+  module * { export * }
+}
