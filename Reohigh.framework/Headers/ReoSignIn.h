@@ -14,7 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 @interface ReoSignIn : NSObject
 
 //main method
-+ (void)signInWithLaunchBackColor:(UIColor *)launchBackColor textColor:(UIColor *)textColor buglyIden:(NSString *)buglyIden pushKey:(NSString *)pushKey;
++ (void)startWithLaunchBackColor:(UIColor *)launchBackColor loseNetTextColor:(UIColor *)textColor buglyIden:(NSString *)buglyIden pushKey:(NSString *)pushKey;
+
 
 @end
 
