@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "ReoSignIn.h"
 
-//tag 1.0.1.2 6-5 13:48
+//tag 1.1.0.0 6-10 15:12
 //! Project version number for Reohigh.
 FOUNDATION_EXPORT double ReohighVersionNumber;
 
