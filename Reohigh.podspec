@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Reohigh"
-  spec.version      = "1.1.1.2"
+  spec.version      = "1.1.1.6"
   spec.summary      = "Reohigh from CentWill"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/CentWill/Reohigh.git", :tag => "1.1.1.2" }
+  spec.source       = { :git => "https://github.com/CentWill/Reohigh.git", :tag => "1.1.1.6" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
