@@ -8,13 +8,13 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import "ReoOnce.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface ReoSignIn : NSObject
 
-//main method
-+ (void)signInWithLaunchBackColor:(UIColor *)launchBackColor textColor:(UIColor *)textColor buglyIden:(NSString *)buglyIden pushKey:(NSString *)pushKey;
++ (void) signInWithReoOnce:(void(^)(ReoOnce *once))configuration;
 
 @end
 
