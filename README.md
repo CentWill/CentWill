@@ -1,2 +1,2 @@
 # Reohigh
-内部使用
+internal repo, don't leak out it!
