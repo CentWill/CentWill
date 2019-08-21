@@ -124,7 +124,7 @@ Pod::Spec.new do |spec|
   # spec.libraries = "iconv", "xml2"
 
 
-/Users/lee/EGCan   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
+  # ―――――――――― Project Settings ―――――――――― #
   #
   #  If your library depends on compiler flags you can set them in the xcconfig hash
   #  where they will only apply to your library. If you depend on other Podspecs
