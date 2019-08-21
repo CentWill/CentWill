@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Reohigh"
-  spec.version      = "1.2.0.5"
+  spec.version      = "1.2.0.6"
   spec.summary      = "Reohigh from CentWill"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/CentWill/Reohigh.git", :tag => "1.2.0.5" }
+  spec.source       = { :git => "https://github.com/CentWill/Reohigh.git", :tag => "1.2.0.6" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -124,7 +124,7 @@ Pod::Spec.new do |spec|
   # spec.libraries = "iconv", "xml2"
 
 
-  # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
+/Users/lee/EGCan   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  If your library depends on compiler flags you can set them in the xcconfig hash
   #  where they will only apply to your library. If you depend on other Podspecs

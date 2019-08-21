@@ -14,7 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ReoSignIn : NSObject
 
-+ (void) signInWithReoOnce:(void(^)(ReoOnce *once))configuration;
++ (void)signInWithReoOnce:(void(^)(ReoOnce *once))configuration;
 
 @end
 
